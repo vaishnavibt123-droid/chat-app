@@ -13,7 +13,7 @@ A real-time chat app built with the MERN stack and Socket.io as a portfolio proj
 
 | Sign up | Chat room |
 |---|---|
-| ![Sign up](screenshots/signup.png) | ![Chat room](screenshots/chat.png) |
+| ![Sign up](signup.png) | ![Chat room](chat.png) |
 
 ## Features
 
