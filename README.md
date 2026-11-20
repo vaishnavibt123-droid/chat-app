@@ -3,6 +3,7 @@
 A real-time chat app built with the MERN stack and Socket.io as a portfolio project. Users sign up, join a room and talk with everyone in it live, with message history and an online users list.
 
 **Live demo:** https://chat-app-roan-zeta-79.vercel.app
+
 **API health check:**  https://chat-app-api-iada.onrender.com/api/health
 
 > **Demo project.** Sign up with any email, for example `demo@example.com`. No verification email is sent. Please don't enter personal data, and open the link in two windows (one normal, one private) to see messages arrive live.
